@@ -1,0 +1,12 @@
+1,Open the laptop,done
+2,Connect to wifi,todo
+3,Update the antivirus,done
+4,Schedule meeting with Dana,todo
+5,Run an antivirus scan,todo
+6,Feed the budgies,done
+7,Call grandma,todo
+8,Make a trial account,todo
+9,Check the newest DS episode,todo
+10,Eat something healthy,todo
+11,Daydream about game,done
+12,Play HSR with Adina,done
